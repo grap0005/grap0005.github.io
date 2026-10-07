@@ -1,0 +1,48 @@
+body {
+    font-size: 18px;
+}
+
+h1, footer {
+    background-color: rgb(114, 100, 237);
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+}
+
+#my-image {
+    height: 300px;
+    width: 450px;
+}
+
+.site-title {
+    color: aliceblue;
+}
+
+ul {
+    list-style-type: square;
+}
+
+#hobbies li:nth-child(odd) {
+    background: rgb(255, 247, 0)
+}
+
+#notes-tab {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+#index-tab {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+#notes-tab, #index-tab {
+    background-color: rgb(63, 79, 169);
+    border: 2px solid rgb(0, 56, 160);
+}
+
+#notes-tab:hover, #index-tab:hover {
+    background-color: rgb(74, 134, 171);
+    border: 2px solid rgb(0, 179, 214);
+}
