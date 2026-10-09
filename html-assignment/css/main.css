@@ -38,11 +38,11 @@ ul {
 }
 
 #notes-tab, #index-tab {
-    background-color: rgb(63, 79, 169);
-    border: 2px solid rgb(0, 56, 160);
+    background-color: rgb(117, 138, 255);
+    border: 2px solid rgb(131, 49, 255);
 }
 
 #notes-tab:hover, #index-tab:hover {
-    background-color: rgb(74, 134, 171);
+    background-color: rgb(103, 185, 237);
     border: 2px solid rgb(0, 179, 214);
 }
